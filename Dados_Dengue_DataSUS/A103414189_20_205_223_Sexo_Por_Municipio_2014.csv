@@ -1,0 +1,835 @@
+DENGUE - Notificações registradas no Sistema de Informação de Agravos de Notificação - São Paulo;;;;;
+Casos Prováveis por Município infecção e Sexo;;;;;
+Período:2014;;;;;
+Município infecção;Em Branco;Ignorado;Masculino;Feminino;Total
+110002 Ariquemes;-;-;1;-;1
+110008 Costa Marques;-;-;1;-;1
+110012 Ji-Paraná;-;-;1;1;2
+110014 Nova Brasilândia D'Oeste;-;-;-;1;1
+110020 Porto Velho;-;-;2;-;2
+130260 Manaus;-;-;4;2;6
+150060 Altamira;-;-;1;-;1
+150140 Belém;-;-;3;2;5
+150240 Castanhal;-;-;1;-;1
+150543 Ourilândia do Norte;-;-;1;-;1
+150810 Tucuruí;-;-;1;-;1
+160027 Laranjal do Jari;-;-;-;1;1
+170100 Ananás;-;-;1;-;1
+170200 Araguaçu;-;-;-;1;1
+171665 Pequizeiro;-;-;-;1;1
+210660 Matões;-;-;1;-;1
+211130 São Luís;-;-;1;-;1
+211220 Timon;-;-;-;1;1
+211290 Vitória do Mearim;-;-;-;1;1
+220025 Alagoinha do Piauí;-;-;-;1;1
+220100 Arraial;-;-;-;1;1
+220110 Avelino Lopes;-;-;-;1;1
+220277 Colônia do Piauí;-;-;3;1;4
+220370 Esperantina;-;-;1;-;1
+220580 Luzilândia;-;-;1;1;2
+220595 Marcolândia;-;-;-;1;1
+220610 Matias Olímpio;-;-;-;1;1
+220800 Picos;-;-;-;1;1
+220840 Piripiri;-;-;-;1;1
+221100 Teresina;-;-;4;2;6
+230070 Alto Santo;-;-;1;-;1
+230130 Araripe;-;-;2;1;3
+230150 Arneiroz;-;-;1;-;1
+230240 Boa Viagem;-;-;1;-;1
+230250 Brejo Santo;-;-;-;1;1
+230260 Camocim;-;-;1;-;1
+230270 Campos Sales;-;-;3;2;5
+230440 Fortaleza;-;-;10;7;17
+230540 Icó;-;-;1;-;1
+230630 Itapagé;-;-;1;-;1
+230640 Itapipoca;-;-;1;-;1
+230660 Itatira;-;-;-;1;1
+230725 Jijoca de Jericoacoara;-;-;-;1;1
+230730 Juazeiro do Norte;-;-;2;2;4
+230760 Limoeiro do Norte;-;-;1;-;1
+231290 Sobral;-;-;-;1;1
+231330 Tauá;-;-;2;2;4
+230000 Município ignorado - CE;-;-;-;1;1
+240040 Água Nova;-;-;1;-;1
+240570 Jardim do Seridó;-;-;1;-;1
+240710 Macaíba;-;-;1;-;1
+240730 Marcelino Vieira;-;-;-;1;1
+240810 Natal;-;-;6;6;12
+240940 Pau dos Ferros;-;-;1;-;1
+241050 Rafael Fernandes;-;-;-;1;1
+241250 São Miguel;-;-;1;-;1
+241410 Tenente Ananias;-;-;1;-;1
+241480 Vera Cruz;-;-;-;1;1
+250215 Boa Vista;-;-;-;1;1
+250370 Cajazeiras;-;-;-;2;2
+250400 Campina Grande;-;-;1;-;1
+250750 João Pessoa;-;-;3;-;3
+250970 Monteiro;-;-;1;2;3
+251000 Nazarezinho;-;-;1;1;2
+251070 Passagem;-;-;-;1;1
+250070 São João do Rio do Peixe;-;-;1;-;1
+260410 Caruaru;-;-;1;3;4
+260530 Exu;-;-;1;-;1
+260660 Ibimirim;-;-;2;1;3
+260720 Ipojuca;-;-;1;-;1
+260860 Lagoa do Ouro;-;-;1;-;1
+261010 Palmeirina;-;-;1;-;1
+261080 Pedra;-;-;-;1;1
+261110 Petrolina;-;-;-;2;2
+261160 Recife;-;-;7;2;9
+261390 Serra Talhada;-;-;-;1;1
+261450 Surubim;-;-;1;-;1
+261460 Tabira;-;-;-;1;1
+261540 Toritama;-;-;-;1;1
+270030 Arapiraca;-;-;-;1;1
+270040 Atalaia;-;-;-;1;1
+270170 Capela;-;-;-;1;1
+270235 Craíbas;-;-;-;1;1
+270430 Maceió;-;-;4;4;8
+270610 Ouro Branco;-;-;-;1;1
+270630 Palmeira dos Índios;-;-;1;1;2
+270910 Taquarana;-;-;1;-;1
+270915 Teotônio Vilela;-;-;1;-;1
+270000 Município ignorado - AL;-;-;1;-;1
+280020 Aquidabã;-;-;-;1;1
+280030 Aracaju;-;-;-;3;3
+280300 Itabaianinha;-;-;1;2;3
+280480 Nossa Senhora do Socorro;-;-;-;1;1
+280680 São Domingos;-;-;1;-;1
+290250 Baianópolis;-;-;1;-;1
+290390 Bom Jesus da Lapa;-;-;-;1;1
+290560 Camacan;-;-;-;1;1
+290680 Cansanção;-;-;1;1;2
+291080 Feira de Santana;-;-;1;1;2
+291360 Ilhéus;-;-;1;-;1
+291370 Inhambupe;-;-;1;-;1
+291480 Itabuna;-;-;2;1;3
+291535 Itaguaçu da Bahia;-;-;-;1;1
+291640 Itapetinga;-;-;-;1;1
+291650 Itapicuru;-;-;-;1;1
+291720 Ituaçu;-;-;1;-;1
+291750 Jacobina;-;-;2;-;2
+291840 Juazeiro;-;-;-;2;2
+292100 Mata de São João;-;-;-;1;1
+292120 Miguel Calmon;-;-;-;1;1
+292150 Monte Santo;-;-;1;-;1
+292160 Morpará;-;-;-;1;1
+292350 Palmeiras;-;-;1;-;1
+292470 Piripá;-;-;-;1;1
+292525 Ponto Novo;-;-;-;1;1
+292530 Porto Seguro;-;-;2;2;4
+292670 Rio de Contas;-;-;1;-;1
+292740 Salvador;-;-;10;12;22
+293010 Senhor do Bonfim;-;-;-;1;1
+293060 Serrolândia;-;-;-;1;1
+293100 Tanhaçu;-;-;-;1;1
+293305 Várzea da Roça;-;-;1;-;1
+293310 Várzea do Poço;-;-;-;1;1
+293360 Xique-Xique;-;-;-;1;1
+290000 Município ignorado - BA;-;-;-;1;1
+310160 Alfenas;-;-;3;1;4
+310400 Araxá;-;-;1;-;1
+310420 Arcos;-;-;-;1;1
+310620 Belo Horizonte;-;-;5;5;10
+310800 Bom Sucesso;-;-;1;-;1
+310855 Brasilândia de Minas;-;-;1;-;1
+310860 Brasília de Minas;-;-;1;-;1
+311060 Cambuí;-;-;1;-;1
+311110 Campina Verde;-;-;-;2;2
+311120 Campo Belo;-;-;2;4;6
+311230 Capelinha;-;-;1;-;1
+311280 Capitólio;-;-;-;1;1
+311400 Carmo da Mata;-;-;3;-;3
+311440 Carmo do Rio Claro;-;-;-;1;1
+311455 Carneirinho;-;-;1;-;1
+311490 Casa Grande;-;-;-;1;1
+311510 Cássia;-;-;-;1;1
+311530 Cataguases;-;-;-;1;1
+311550 Caxambu;-;-;1;-;1
+311610 Chapada do Norte;-;-;-;1;1
+311770 Conceição do Rio Verde;-;-;1;-;1
+311940 Coronel Fabriciano;-;-;1;-;1
+312120 Delfinópolis;-;-;2;2;4
+312160 Diamantina;-;-;1;-;1
+312230 Divinópolis;-;-;3;2;5
+312510 Extrema;-;-;-;1;1
+312700 Fronteira;-;-;1;3;4
+312710 Frutal;-;-;4;2;6
+312830 Guaranésia;-;-;-;1;1
+312870 Guaxupé;-;-;1;-;1
+312970 Ibiraci;-;-;1;-;1
+313240 Itajubá;-;-;1;2;3
+313420 Ituiutaba;-;-;1;-;1
+313440 Iturama;-;-;1;-;1
+313620 João Monlevade;-;-;-;1;1
+313630 João Pinheiro;-;-;1;-;1
+313670 Juiz de Fora;-;-;-;1;1
+313695 Juvenília;-;-;-;1;1
+313780 Lambari;-;-;-;1;1
+313820 Lavras;-;-;3;-;3
+313840 Leopoldina;-;-;1;-;1
+314070 Mateus Leme;-;-;1;-;1
+314110 Matozinhos;-;-;1;-;1
+314140 Medina;-;-;1;-;1
+314270 Montalvânia;-;-;-;1;1
+314340 Monte Sião;-;-;1;-;1
+314330 Montes Claros;-;-;1;2;3
+314350 Morada Nova de Minas;-;-;1;-;1
+314410 Muzambinho;-;-;1;-;1
+314520 Nova Serrana;-;-;-;1;1
+314700 Paracatu;-;-;2;1;3
+314730 Paraisópolis;-;-;1;-;1
+314760 Passa Quatro;-;-;-;2;2
+314790 Passos;-;-;7;13;20
+314800 Patos de Minas;-;-;1;1;2
+314990 Perdões;-;-;-;2;2
+315070 Pirajuba;-;-;1;-;1
+315100 Piranguinho;-;-;-;1;1
+315140 Pitangui;-;-;-;1;1
+315150 Piumhi;-;-;1;-;1
+315160 Planura;-;-;-;1;1
+315180 Poços de Caldas;-;-;3;1;4
+315210 Ponte Nova;-;-;-;1;1
+315250 Pouso Alegre;-;-;3;3;6
+315460 Ribeirão das Neves;-;-;-;1;1
+315727 Santa Bárbara do Monte Verde;-;-;-;2;2
+315980 Santa Vitória;-;-;1;-;1
+316250 São João del Rei;-;-;-;1;1
+316470 São Sebastião do Paraíso;-;-;1;-;1
+316520 São Thomé das Letras;-;-;1;-;1
+317010 Uberaba;-;-;1;4;5
+317020 Uberlândia;-;-;5;1;6
+310000 Município ignorado - MG;-;-;-;2;2
+320120 Cachoeiro de Itapemirim;-;-;-;1;1
+320520 Vila Velha;-;-;-;1;1
+320530 Vitória;-;-;2;-;2
+330010 Angra dos Reis;-;-;1;-;1
+330040 Barra Mansa;-;-;1;-;1
+330200 Itaguaí;-;-;-;1;1
+330225 Itatiaia;-;-;-;1;1
+330330 Niterói;-;-;1;-;1
+330380 Paraty;-;-;3;5;8
+330420 Resende;-;-;1;-;1
+330455 Rio de Janeiro;-;-;22;22;44
+330475 São Francisco de Itabapoana;-;-;1;2;3
+330490 São Gonçalo;-;-;-;1;1
+330630 Volta Redonda;-;-;1;-;1
+350010 Adamantina;-;-;15;20;35
+350020 Adolfo;-;-;-;1;1
+350030 Aguaí;-;-;222;298;520
+350040 Águas da Prata;-;-;-;2;2
+350050 Águas de Lindóia;-;-;1;2;3
+350055 Águas de Santa Bárbara;-;-;2;3;5
+350060 Águas de São Pedro;-;-;41;59;100
+350070 Agudos;-;-;9;7;16
+350075 Alambari;-;-;2;6;8
+350080 Alfredo Marcondes;-;-;-;1;1
+350090 Altair;-;-;1;-;1
+350100 Altinópolis;-;-;-;1;1
+350110 Alto Alegre;-;-;-;1;1
+350115 Alumínio;-;-;4;2;6
+350120 Álvares Florence;-;-;13;15;28
+350130 Álvares Machado;-;-;3;2;5
+350150 Alvinlândia;-;-;1;-;1
+350160 Americana;-;32;4168;4848;9048
+350170 Américo Brasiliense;1;-;34;30;65
+350180 Américo de Campos;-;-;12;45;57
+350190 Amparo;-;-;96;105;201
+350200 Analândia;-;-;2;-;2
+350210 Andradina;-;-;23;28;51
+350250 Aparecida;-;-;23;24;47
+350260 Aparecida d'Oeste;-;-;12;19;31
+350275 Araçariguama;-;-;4;1;5
+350280 Araçatuba;-;1;744;1060;1805
+350290 Araçoiaba da Serra;-;-;2;4;6
+350320 Araraquara;-;-;739;907;1646
+350330 Araras;-;-;40;68;108
+350335 Arco-Íris;-;-;1;-;1
+350340 Arealva;-;-;2;1;3
+350350 Areias;-;-;-;1;1
+350360 Areiópolis;-;-;1;-;1
+350370 Ariranha;-;-;-;1;1
+350380 Artur Nogueira;-;-;33;57;90
+350390 Arujá;-;-;58;55;113
+350395 Aspásia;-;-;4;3;7
+350400 Assis;-;2;404;550;956
+350410 Atibaia;-;-;648;723;1371
+350420 Auriflama;-;-;20;30;50
+350430 Avaí;-;-;74;82;156
+350440 Avanhandava;-;-;2;3;5
+350450 Avaré;-;-;2;1;3
+350460 Bady Bassitt;-;-;7;6;13
+350480 Bálsamo;-;-;3;1;4
+350500 Barão de Antonina;-;-;2;2;4
+350510 Barbosa;-;-;9;23;32
+350520 Bariri;-;-;106;128;234
+350530 Barra Bonita;-;-;25;25;50
+350550 Barretos;-;-;28;42;70
+350560 Barrinha;-;-;5;5;10
+350570 Barueri;-;-;263;304;567
+350580 Bastos;-;-;11;11;22
+350590 Batatais;-;-;7;5;12
+350600 Bauru;-;-;201;211;412
+350610 Bebedouro;-;-;323;389;712
+350620 Bento de Abreu;-;-;1;1;2
+350635 Bertioga;-;-;196;276;472
+350640 Bilac;-;-;16;23;39
+350650 Birigui;-;1;1539;2186;3726
+350670 Boa Esperança do Sul;-;-;347;472;819
+350680 Bocaina;-;-;20;29;49
+350690 Bofete;-;-;-;1;1
+350700 Boituva;-;-;3;-;3
+350710 Bom Jesus dos Perdões;-;-;3;3;6
+350730 Boracéia;-;-;6;5;11
+350740 Borborema;-;-;4;6;10
+350750 Botucatu;-;-;3;-;3
+350760 Bragança Paulista;-;-;144;123;267
+350770 Braúna;-;-;15;21;36
+350775 Brejo Alegre;-;-;3;14;17
+350780 Brodowski;-;-;2;2;4
+350790 Brotas;-;-;96;114;210
+350810 Buritama;-;-;594;971;1565
+350840 Cabreúva;-;-;6;7;13
+350850 Caçapava;-;-;69;58;127
+350860 Cachoeira Paulista;-;-;2;5;7
+350870 Caconde;-;-;3;1;4
+350880 Cafelândia;-;-;12;14;26
+350890 Caiabu;-;-;1;-;1
+350900 Caieiras;-;-;53;41;94
+350910 Caiuá;-;-;3;2;5
+350920 Cajamar;-;-;79;99;178
+350925 Cajati;-;-;-;1;1
+350930 Cajobi;-;-;24;55;79
+350940 Cajuru;-;-;3;-;3
+350945 Campina do Monte Alegre;-;-;1;-;1
+350950 Campinas;6;25;18958;23341;42330
+350960 Campo Limpo Paulista;-;1;141;128;270
+350970 Campos do Jordão;-;-;3;1;4
+350980 Campos Novos Paulista;-;-;1;2;3
+350990 Cananéia;-;-;6;12;18
+350995 Canas;-;-;1;3;4
+351000 Cândido Mota;-;-;43;45;88
+351015 Canitar;-;-;-;1;1
+351020 Capão Bonito;-;-;5;12;17
+351030 Capela do Alto;-;-;1;-;1
+351040 Capivari;-;-;11;8;19
+351050 Caraguatatuba;-;-;1100;1234;2334
+351060 Carapicuíba;-;-;633;723;1356
+351070 Cardoso;-;-;12;23;35
+351080 Casa Branca;1;-;885;1132;2018
+351100 Castilho;-;-;24;20;44
+351110 Catanduva;-;-;238;304;542
+351120 Catiguá;-;-;3;6;9
+351130 Cedral;-;-;1;2;3
+351140 Cerqueira César;-;-;2;2;4
+351150 Cerquilho;-;-;1;-;1
+351170 Charqueada;-;-;8;6;14
+355720 Chavantes;-;-;-;1;1
+351190 Clementina;-;-;17;26;43
+351200 Colina;-;-;13;24;37
+351210 Colômbia;-;-;2;3;5
+351220 Conchal;-;-;4;1;5
+351230 Conchas;-;-;6;5;11
+351240 Cordeirópolis;-;-;18;16;34
+351250 Coroados;-;-;8;21;29
+351270 Corumbataí;-;-;6;4;10
+351280 Cosmópolis;-;-;25;47;72
+351290 Cosmorama;-;-;8;7;15
+351300 Cotia;-;1;104;121;226
+351310 Cravinhos;-;-;35;52;87
+351320 Cristais Paulista;-;-;2;-;2
+351340 Cruzeiro;-;-;23;23;46
+351350 Cubatão;-;-;23;28;51
+351370 Descalvado;-;-;41;54;95
+351380 Diadema;-;-;198;192;390
+351385 Dirce Reis;-;-;-;1;1
+351390 Divinolândia;-;-;1;1;2
+351400 Dobrada;-;-;2;1;3
+351410 Dois Córregos;-;-;29;36;65
+351420 Dolcinópolis;-;-;1;-;1
+351430 Dourado;-;-;7;10;17
+351440 Dracena;-;-;27;32;59
+351450 Duartina;-;-;2;6;8
+351460 Dumont;-;-;17;16;33
+351490 Elias Fausto;-;-;14;27;41
+351492 Elisiário;-;-;-;3;3
+351500 Embu das Artes;-;-;127;170;297
+351510 Embu-Guaçu;-;-;6;2;8
+351512 Emilianópolis;-;-;-;1;1
+351515 Engenheiro Coelho;-;-;4;6;10
+351518 Espírito Santo do Pinhal;-;-;4;3;7
+355730 Estiva Gerbi;-;-;3;2;5
+351520 Estrela d'Oeste;-;-;75;106;181
+351530 Estrela do Norte;-;-;2;3;5
+351535 Euclides da Cunha Paulista;-;-;2;5;7
+351540 Fartura;-;-;-;2;2
+351550 Fernandópolis;-;-;93;117;210
+351565 Fernão;-;-;1;-;1
+351570 Ferraz de Vasconcelos;-;-;13;11;24
+351580 Flora Rica;-;-;4;2;6
+351590 Floreal;-;-;1;3;4
+351600 Flórida Paulista;-;-;46;42;88
+351610 Florínia;-;-;22;31;53
+351620 Franca;-;-;121;106;227
+351630 Francisco Morato;1;-;367;473;841
+351640 Franco da Rocha;-;1;798;878;1677
+351650 Gabriel Monteiro;-;-;4;5;9
+351660 Gália;-;-;1;1;2
+351670 Garça;-;-;17;16;33
+351680 Gastão Vidigal;-;-;3;9;12
+351685 Gavião Peixoto;-;-;1;-;1
+351690 General Salgado;-;-;39;59;98
+351700 Getulina;-;-;4;5;9
+351710 Glicério;-;-;5;9;14
+351720 Guaiçara;-;-;21;24;45
+351740 Guaíra;-;-;23;23;46
+351750 Guapiaçu;-;-;1;4;5
+351780 Guaraçaí;-;-;10;14;24
+351800 Guarani d'Oeste;-;-;1;-;1
+351810 Guarantã;-;-;21;27;48
+351820 Guararapes;-;-;194;265;459
+351830 Guararema;-;-;12;11;23
+351840 Guaratinguetá;-;-;47;42;89
+351860 Guariba;-;-;4;1;5
+351870 Guarujá;-;3;132;151;286
+351880 Guarulhos;-;1;2567;2685;5253
+351885 Guatapará;-;-;1;1;2
+351890 Guzolândia;-;-;2;5;7
+351900 Herculândia;-;-;1;4;5
+351905 Holambra;-;-;22;23;45
+351907 Hortolândia;-;1;960;1157;2118
+351910 Iacanga;-;-;11;10;21
+351920 Iacri;-;-;2;1;3
+351925 Iaras;-;-;20;23;43
+351930 Ibaté;-;-;4;8;12
+351940 Ibirá;-;-;-;4;4
+351960 Ibitinga;-;-;11;6;17
+351970 Ibiúna;-;-;5;2;7
+351980 Icém;-;-;1;1;2
+351990 Iepê;-;-;1;1;2
+352000 Igaraçu do Tietê;-;-;3;3;6
+352010 Igarapava;-;-;2;-;2
+352020 Igaratá;-;-;1;-;1
+352030 Iguape;-;-;3;7;10
+352042 Ilha Comprida;-;-;9;25;34
+352044 Ilha Solteira;-;-;146;182;328
+352040 Ilhabela;-;4;1397;1559;2960
+352050 Indaiatuba;-;-;121;146;267
+352070 Indiaporã;-;-;-;7;7
+352090 Ipaussu;-;-;1;2;3
+352100 Iperó;-;1;167;184;352
+352110 Ipeúna;-;-;2;1;3
+352115 Ipiguá;-;-;1;1;2
+352130 Ipuã;-;-;6;8;14
+352140 Iracemápolis;-;-;14;14;28
+352150 Irapuã;-;-;1;1;2
+352160 Irapuru;-;-;23;16;39
+352170 Itaberá;1;-;-;-;1
+352190 Itajobi;-;-;-;1;1
+352200 Itaju;-;-;2;2;4
+352210 Itanhaém;-;-;80;101;181
+352220 Itapecerica da Serra;-;-;29;27;56
+352230 Itapetininga;-;-;1;7;8
+352240 Itapeva;-;-;1;-;1
+352250 Itapevi;-;-;181;209;390
+352260 Itapira;-;-;344;350;694
+352270 Itápolis;-;-;57;67;124
+352280 Itaporanga;-;-;46;61;107
+352290 Itapuí;-;-;56;70;126
+352300 Itapura;-;-;12;11;23
+352310 Itaquaquecetuba;-;1;45;43;89
+352320 Itararé;-;-;7;11;18
+352330 Itariri;-;-;2;2;4
+352340 Itatiba;-;-;18;17;35
+352360 Itirapina;-;-;15;16;31
+352380 Itobi;-;-;79;106;185
+352390 Itu;-;-;66;63;129
+352400 Itupeva;-;-;21;24;45
+352410 Ituverava;-;-;1;2;3
+352420 Jaborandi;-;-;3;-;3
+352430 Jaboticabal;-;-;23;29;52
+352440 Jacareí;-;-;91;66;157
+352450 Jaci;-;-;5;3;8
+352460 Jacupiranga;-;-;2;-;2
+352470 Jaguariúna;-;-;27;26;53
+352480 Jales;-;-;229;279;508
+352490 Jambeiro;-;-;1;-;1
+352500 Jandira;-;-;140;150;290
+352510 Jardinópolis;1;11;487;658;1157
+352520 Jarinu;-;-;1;1;2
+352530 Jaú;-;2;2000;2577;4579
+352550 Joanópolis;-;-;2;1;3
+352560 João Ramalho;-;-;3;3;6
+352570 José Bonifácio;-;-;78;132;210
+352580 Júlio Mesquita;-;-;-;1;1
+352590 Jundiaí;-;-;159;177;336
+352600 Junqueirópolis;-;-;57;72;129
+352610 Juquiá;-;-;2;1;3
+352620 Juquitiba;-;-;3;1;4
+352630 Lagoinha;-;-;5;1;6
+352640 Laranjal Paulista;-;-;21;22;43
+352650 Lavínia;-;-;4;8;12
+352670 Leme;-;-;15;13;28
+352680 Lençóis Paulista;-;-;7;3;10
+352690 Limeira;-;-;330;339;669
+352710 Lins;-;-;108;116;224
+352720 Lorena;-;-;40;35;75
+352725 Lourdes;-;-;7;14;21
+352730 Louveira;-;-;28;46;74
+352740 Lucélia;-;-;13;13;26
+352760 Luís Antônio;-;-;2;4;6
+352770 Luiziânia;-;-;5;6;11
+352800 Macatuba;-;-;5;7;12
+352810 Macaubal;-;-;5;5;10
+352820 Macedônia;-;-;5;3;8
+352830 Magda;-;-;4;6;10
+352840 Mairinque;1;-;5;9;15
+352850 Mairiporã;1;39;2092;2519;4651
+352880 Maracaí;-;-;9;14;23
+352890 Mariápolis;-;-;16;20;36
+352900 Marília;-;-;847;929;1776
+352910 Marinópolis;-;-;2;3;5
+352920 Martinópolis;-;-;5;3;8
+352930 Matão;-;-;84;86;170
+352940 Mauá;-;-;3;5;8
+352950 Mendonça;-;-;10;10;20
+352960 Meridiano;-;-;10;9;19
+352965 Mesópolis;-;-;1;2;3
+352970 Miguelópolis;-;-;2;1;3
+352980 Mineiros do Tietê;-;-;73;77;150
+353000 Mira Estrela;-;-;2;10;12
+352990 Miracatu;-;-;4;9;13
+353010 Mirandópolis;-;-;35;57;92
+353020 Mirante do Paranapanema;-;-;9;16;25
+353030 Mirassol;-;-;18;16;34
+353040 Mirassolândia;-;-;1;-;1
+353050 Mococa;-;-;166;205;371
+353060 Mogi das Cruzes;-;-;28;31;59
+353070 Mogi Guaçu;-;-;537;574;1111
+353080 Mogi Mirim;-;-;510;538;1048
+353100 Monções;-;-;3;3;6
+353110 Mongaguá;-;-;149;142;291
+353120 Monte Alegre do Sul;-;-;3;1;4
+353130 Monte Alto;-;-;3;14;17
+353140 Monte Aprazível;-;-;35;57;92
+353150 Monte Azul Paulista;-;-;9;17;26
+353160 Monte Castelo;-;-;4;2;6
+353180 Monte Mor;-;-;93;128;221
+353190 Morro Agudo;-;-;3;11;14
+353200 Morungaba;-;-;1;4;5
+353205 Motuca;-;-;24;15;39
+353210 Murutinga do Sul;-;-;1;4;5
+353215 Nantes;-;-;-;1;1
+353220 Narandiba;-;-;7;11;18
+353230 Natividade da Serra;-;-;3;10;13
+353240 Nazaré Paulista;-;-;3;5;8
+353250 Neves Paulista;-;-;3;7;10
+353260 Nhandeara;-;-;37;47;84
+353270 Nipoã;-;-;2;-;2
+353282 Nova Campina;-;-;-;1;1
+353286 Nova Castilho;-;-;1;-;1
+353290 Nova Europa;-;-;4;5;9
+353320 Nova Independência;-;-;2;4;6
+353330 Nova Luzitânia;-;-;5;5;10
+353340 Nova Odessa;-;-;269;310;579
+353325 Novais;-;-;1;1;2
+353350 Novo Horizonte;-;-;6;7;13
+353360 Nuporanga;-;-;-;1;1
+353370 Ocauçu;-;-;2;3;5
+353390 Olímpia;-;-;57;83;140
+353410 Oriente;-;-;7;2;9
+353420 Orindiúva;-;-;1;-;1
+353430 Orlândia;-;-;16;12;28
+353440 Osasco;-;3;2384;2769;5156
+353450 Oscar Bressane;-;-;8;5;13
+353460 Osvaldo Cruz;-;-;5;4;9
+353470 Ourinhos;-;-;75;116;191
+353480 Ouro Verde;-;-;12;15;27
+353475 Ouroeste;-;-;19;14;33
+353490 Pacaembu;-;-;6;8;14
+353500 Palestina;-;-;2;3;5
+353510 Palmares Paulista;-;-;-;1;1
+353520 Palmeira d'Oeste;-;-;11;33;44
+353530 Palmital;-;-;26;43;69
+353540 Panorama;-;-;4;5;9
+353550 Paraguaçu Paulista;-;-;72;80;152
+353570 Paraíso;-;-;2;1;3
+353590 Paranapuã;-;-;7;13;20
+353600 Parapuã;-;-;14;20;34
+353620 Pariquera-Açu;-;-;5;9;14
+353625 Parisi;-;-;59;62;121
+353640 Paulicéia;-;-;2;2;4
+353650 Paulínia;-;-;425;459;884
+353660 Paulo de Faria;-;-;2;2;4
+353670 Pederneiras;-;-;32;30;62
+353690 Pedranópolis;-;-;6;8;14
+353710 Pedreira;-;-;454;602;1056
+353715 Pedrinhas Paulista;-;-;2;5;7
+353720 Pedro de Toledo;-;-;-;1;1
+353730 Penápolis;-;-;119;155;274
+353740 Pereira Barreto;-;-;9;16;25
+353750 Pereiras;-;-;-;1;1
+353760 Peruíbe;-;-;88;103;191
+353770 Piacatu;-;-;18;31;49
+353780 Piedade;-;-;1;-;1
+353790 Pilar do Sul;-;-;2;-;2
+353800 Pindamonhangaba;-;4;1363;1517;2884
+353810 Pindorama;-;-;1;2;3
+353820 Pinhalzinho;-;-;1;1;2
+353860 Piracaia;-;-;5;7;12
+353870 Piracicaba;-;-;462;493;955
+353880 Piraju;-;-;1;-;1
+353890 Pirajuí;-;-;5;5;10
+353900 Pirangi;-;-;6;20;26
+353910 Pirapora do Bom Jesus;-;-;26;23;49
+353920 Pirapozinho;-;-;9;8;17
+353930 Pirassununga;-;-;41;43;84
+353950 Pitangueiras;-;-;12;28;40
+353960 Planalto;-;-;17;16;33
+353970 Platina;-;-;2;-;2
+353980 Poá;-;-;7;8;15
+353990 Poloni;-;-;-;1;1
+354000 Pompéia;-;-;12;17;29
+354020 Pontal;-;-;41;68;109
+354025 Pontalinda;-;-;2;3;5
+354030 Pontes Gestal;-;-;8;8;16
+354040 Populina;-;-;1;1;2
+354050 Porangaba;-;-;9;6;15
+354060 Porto Feliz;-;-;46;44;90
+354070 Porto Ferreira;-;-;289;368;657
+354075 Potim;-;-;28;32;60
+354080 Potirendaba;-;-;17;16;33
+354090 Pradópolis;-;-;2;1;3
+354100 Praia Grande;1;1;100;107;209
+354105 Pratânia;-;-;-;1;1
+354110 Presidente Alves;-;-;-;3;3
+354120 Presidente Bernardes;-;-;5;6;11
+354130 Presidente Epitácio;-;-;17;43;60
+354140 Presidente Prudente;1;-;96;144;241
+354150 Presidente Venceslau;-;-;12;8;20
+354160 Promissão;-;-;246;255;501
+354170 Quatá;-;-;7;3;10
+354180 Queiroz;-;-;3;4;7
+354190 Queluz;-;-;2;2;4
+354200 Quintana;-;-;1;2;3
+354210 Rafard;-;-;6;4;10
+354220 Rancharia;-;-;37;38;75
+354230 Redenção da Serra;-;-;12;15;27
+354240 Regente Feijó;-;-;3;3;6
+354260 Registro;-;-;9;10;19
+354290 Ribeirão Bonito;-;-;70;99;169
+354300 Ribeirão Branco;-;-;1;1;2
+354310 Ribeirão Corrente;-;-;9;18;27
+354320 Ribeirão do Sul;-;-;-;2;2
+354323 Ribeirão dos Índios;-;-;1;-;1
+354330 Ribeirão Pires;-;-;-;1;1
+354340 Ribeirão Preto;-;2;204;244;450
+354360 Rifaina;-;-;22;21;43
+354370 Rincão;-;-;2;-;2
+354380 Rinópolis;-;-;4;4;8
+354390 Rio Claro;-;-;320;386;706
+354400 Rio das Pedras;-;-;3;6;9
+354410 Rio Grande da Serra;-;-;1;-;1
+354420 Riolândia;-;-;14;22;36
+354425 Rosana;-;1;320;425;746
+354430 Roseira;-;-;7;3;10
+354440 Rubiácea;-;-;4;2;6
+354450 Rubinéia;-;-;29;38;67
+354470 Sagres;-;-;1;2;3
+354480 Sales;-;-;6;7;13
+354490 Sales Oliveira;-;-;21;36;57
+354510 Salmourão;-;-;7;12;19
+354515 Saltinho;-;-;-;1;1
+354520 Salto;-;-;66;70;136
+354530 Salto de Pirapora;-;-;5;1;6
+354540 Salto Grande;-;-;1;2;3
+354550 Sandovalina;-;-;8;2;10
+354560 Santa Adélia;-;-;4;3;7
+354570 Santa Albertina;-;-;3;2;5
+354580 Santa Bárbara d'Oeste;1;-;1445;1685;3131
+354600 Santa Branca;-;-;3;-;3
+354610 Santa Clara d'Oeste;-;-;3;5;8
+354620 Santa Cruz da Conceição;-;-;1;10;11
+354630 Santa Cruz das Palmeiras;-;-;17;20;37
+354640 Santa Cruz do Rio Pardo;-;-;25;34;59
+354650 Santa Ernestina;-;-;1;-;1
+354660 Santa Fé do Sul;-;-;44;76;120
+354670 Santa Gertrudes;-;-;16;30;46
+354680 Santa Isabel;-;-;30;22;52
+354690 Santa Lúcia;-;-;6;8;14
+354700 Santa Maria da Serra;-;-;21;20;41
+354710 Santa Mercedes;-;-;-;1;1
+354750 Santa Rita do Passa Quatro;-;-;22;31;53
+354760 Santa Rosa de Viterbo;-;-;11;14;25
+354765 Santa Salete;-;-;-;1;1
+354720 Santana da Ponte Pensa;-;-;2;-;2
+354730 Santana de Parnaíba;-;-;75;102;177
+354770 Santo Anastácio;-;-;6;13;19
+354780 Santo André;-;-;114;140;254
+354790 Santo Antônio da Alegria;-;-;1;-;1
+354800 Santo Antônio de Posse;-;-;192;203;395
+354805 Santo Antônio do Aracanguá;-;-;40;48;88
+354840 Santópolis do Aguapeí;-;-;3;6;9
+354850 Santos;-;1;882;1408;2291
+354860 São Bento do Sapucaí;-;-;-;1;1
+354870 São Bernardo do Campo;-;2;241;268;511
+354880 São Caetano do Sul;-;-;19;16;35
+354890 São Carlos;-;-;153;133;286
+354900 São Francisco;-;-;1;6;7
+354910 São João da Boa Vista;-;-;261;281;542
+354930 São João do Pau d'Alho;-;-;1;3;4
+354940 São Joaquim da Barra;-;-;41;49;90
+354960 São José do Barreiro;-;-;2;6;8
+354970 São José do Rio Pardo;-;-;19;17;36
+354980 São José do Rio Preto;-;-;591;691;1282
+354990 São José dos Campos;-;-;348;341;689
+354995 São Lourenço da Serra;-;-;1;-;1
+355000 São Luís do Paraitinga;-;-;3;3;6
+355010 São Manuel;-;-;5;1;6
+355020 São Miguel Arcanjo;-;-;1;-;1
+355030 São Paulo;9;23;14626;15114;29772
+355040 São Pedro;-;-;426;555;981
+355050 São Pedro do Turvo;-;-;2;1;3
+355060 São Roque;-;-;33;35;68
+355070 São Sebastião;-;2;655;871;1528
+355080 São Sebastião da Grama;-;-;1;-;1
+355100 São Vicente;-;-;101;130;231
+355110 Sarapuí;-;-;-;1;1
+355130 Sebastianópolis do Sul;-;-;2;1;3
+355140 Serra Azul;-;-;3;1;4
+355160 Serra Negra;-;-;10;14;24
+355150 Serrana;-;-;17;23;40
+355170 Sertãozinho;-;-;73;121;194
+355180 Sete Barras;-;-;2;-;2
+355190 Severínia;-;-;12;16;28
+355210 Socorro;-;-;1;3;4
+355220 Sorocaba;-;1;185;183;369
+355230 Sud Mennucci;-;-;6;4;10
+355240 Sumaré;-;4;1635;1866;3505
+355255 Suzanápolis;-;-;20;28;48
+355250 Suzano;-;-;9;9;18
+355260 Tabapuã;-;-;1;7;8
+355270 Tabatinga;-;-;1;2;3
+355280 Taboão da Serra;1;-;409;547;957
+355290 Taciba;-;-;-;2;2
+355310 Taiaçu;-;-;-;1;1
+355330 Tambaú;-;-;132;141;273
+355340 Tanabi;-;-;82;95;177
+355360 Tapiratiba;-;-;2;2;4
+355365 Taquaral;-;-;-;1;1
+355370 Taquaritinga;-;-;43;68;111
+355390 Tarabai;-;-;2;9;11
+355395 Tarumã;-;-;57;58;115
+355400 Tatuí;-;-;13;13;26
+355410 Taubaté;-;6;4753;5169;9928
+355420 Tejupá;-;-;-;2;2
+355430 Teodoro Sampaio;-;-;10;9;19
+355440 Terra Roxa;-;-;2;2;4
+355450 Tietê;-;-;7;4;11
+355470 Torrinha;-;-;6;13;19
+355475 Trabiju;-;-;36;23;59
+355480 Tremembé;-;-;347;389;736
+355490 Três Fronteiras;-;-;2;5;7
+355495 Tuiuti;-;-;2;-;2
+355500 Tupã;-;-;394;456;850
+355510 Tupi Paulista;-;-;3;4;7
+355520 Turiúba;-;-;7;19;26
+355530 Turmalina;-;-;-;6;6
+355535 Ubarana;-;-;35;49;84
+355540 Ubatuba;-;-;575;691;1266
+355550 Ubirajara;-;-;1;4;5
+355560 Uchoa;-;-;8;15;23
+355580 Urânia;-;-;3;2;5
+355600 Urupês;-;-;1;2;3
+355610 Valentim Gentil;-;-;31;46;77
+355620 Valinhos;-;-;86;127;213
+355630 Valparaíso;-;-;12;12;24
+355635 Vargem;-;-;1;1;2
+355640 Vargem Grande do Sul;-;-;15;13;28
+355645 Vargem Grande Paulista;-;-;-;4;4
+355650 Várzea Paulista;-;-;238;224;462
+355660 Vera Cruz;-;-;5;4;9
+355670 Vinhedo;-;-;82;99;181
+355680 Viradouro;-;-;22;65;87
+355690 Vista Alegre do Alto;-;-;1;1;2
+355695 Vitória Brasil;-;-;-;1;1
+355700 Votorantim;-;-;18;9;27
+355710 Votuporanga;-;-;1204;1575;2779
+355715 Zacarias;-;-;19;60;79
+350000 Município ignorado - SP;-;-;-;3;3
+410020 Adrianópolis;-;-;1;-;1
+410210 Astorga;-;-;1;-;1
+410420 Campo Largo;-;-;-;1;1
+410480 Cascavel;-;-;1;-;1
+410560 Cidade Gaúcha;-;-;1;-;1
+410640 Cornélio Procópio;-;-;1;-;1
+410690 Curitiba;-;-;-;3;3
+411370 Londrina;-;-;3;8;11
+411430 Mandirituba;-;-;-;1;1
+411500 Marilena;-;-;3;2;5
+411520 Maringá;-;-;11;9;20
+411710 Nova Londrina;-;-;1;4;5
+411720 Nova Olímpia;-;-;1;-;1
+411750 Paiçandu;-;-;-;1;1
+411820 Paranaguá;-;-;-;1;1
+411995 Pontal do Paraná;-;-;1;-;1
+412110 Quinta do Sol;-;-;1;-;1
+412210 Rio Bom;-;-;-;1;1
+412340 Santa Fé;-;-;1;-;1
+412410 Santo Antônio da Platina;-;-;-;1;1
+412500 São João do Ivaí;-;-;1;-;1
+412625 Sarandi;-;-;-;2;2
+412640 Sertaneja;-;-;1;-;1
+412800 Ubiratã;-;-;1;-;1
+412840 Uraí;-;-;-;1;1
+420040 Água Doce;-;-;2;1;3
+420210 Barra Velha;-;-;-;1;1
+420240 Blumenau;-;-;1;-;1
+420320 Camboriú;-;-;2;-;2
+420460 Criciúma;-;-;2;-;2
+431470 Planalto;-;-;-;1;1
+431490 Porto Alegre;-;-;-;2;2
+431560 Rio Grande;-;-;1;-;1
+500080 Anaurilândia;-;-;1;-;1
+500085 Angélica;-;-;-;1;1
+500100 Aparecida do Taboado;-;-;3;2;5
+500220 Bonito;-;-;1;1;2
+500230 Brasilândia;-;-;1;-;1
+500270 Campo Grande;-;-;1;1;2
+500295 Chapadão do Sul;-;-;-;2;2
+500325 Costa Rica;-;-;1;-;1
+500345 Deodápolis;-;-;-;1;1
+500370 Dourados;-;-;-;1;1
+500450 Itaporã;-;-;1;-;1
+500560 Miranda;-;-;1;-;1
+500690 Porto Murtinho;-;-;1;-;1
+500830 Três Lagoas;-;-;4;4;8
+510185 Bom Jesus do Araguaia;-;-;-;1;1
+510263 Campo Novo do Parecis;-;-;1;-;1
+510340 Cuiabá;-;-;3;2;5
+510650 Poconé;-;-;-;1;1
+510704 Primavera do Leste;-;-;1;-;1
+510790 Sinop;-;-;2;2;4
+520060 Alto Paraíso de Goiás;-;-;1;-;1
+520110 Anápolis;-;-;1;1;2
+520450 Caldas Novas;-;-;2;-;2
+520510 Catalão;-;-;2;1;3
+520547 Chapadão do Céu;-;-;1;-;1
+520725 Doverlândia;-;-;1;-;1
+520860 Goianésia;-;-;1;-;1
+520870 Goiânia;-;-;5;5;10
+520890 Goiás;-;-;1;4;5
+521020 Iporá;-;-;1;-;1
+521150 Itumbiara;-;-;2;-;2
+521190 Jataí;-;-;1;2;3
+521250 Luziânia;-;-;2;1;3
+521370 Montes Claros de Goiás;-;-;-;1;1
+521570 Palmeiras de Goiás;-;-;-;1;1
+521710 Piracanjuba;-;-;1;-;1
+521730 Pirenópolis;-;-;1;-;1
+521930 Santa Helena de Goiás;-;-;-;1;1
+522050 Serranópolis;-;-;1;-;1
+522160 Uruaçu;-;-;-;1;1
+530010 Brasília;-;-;7;4;11
+000000 Ignorado ou exterior;16;42;13526;14164;27748
+000000 Total;42;219;105308;121902;227471

@@ -1,0 +1,19 @@
+Extrair o arquivo Dados_Dengue_DataSUS.zip no C:
+
+Baixar software SQL Server para armazenamento dos dados
+link: https://go.microsoft.com/fwlink/?linkid=2043154
+
+Após instalação, acessar servidor local do SQL e criar base para armazenamento dos dados
+
+Servidor: (LocalDb)\MSSQLLocalDB
+Nome base: Artigo_Dengue
+
+Baixar Visual Studio 2010
+link: https://www.microsoft.com/en-us/download/confirmation.aspx?id=23507
+
+Baixar Data Tools 2012 para o Visual Studio para a extração, transformação e carregamento dos dados.
+link: https://www.microsoft.com/pt-br/download/confirmation.aspx?id=36843
+
+Criar projeto no Integration Services indicando o pacote "Insercao_Documentos_Dengue" para ser importado.
+
+Após importação, executar pacotes de acordo com a ordem dos nomes.

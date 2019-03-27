@@ -1,4 +1,4 @@
-Extrair o arquivo Dados_Dengue_DataSUS.zip no C:
+Extrair o arquivo Dados_Dengue_DataSUS.zip, IMP.zip e Dados_IBGE no C:
 
 Baixar software SQL Server para armazenamento dos dados
 link: https://go.microsoft.com/fwlink/?linkid=2043154
@@ -16,4 +16,12 @@ link: https://www.microsoft.com/pt-br/download/confirmation.aspx?id=36843
 
 Criar projeto no Integration Services indicando o pacote "Insercao_Documentos_Dengue" para ser importado.
 
-Após importação, executar pacotes de acordo com a ordem dos nomes.
+Após importação, executar pacotes de acordo com a ordem numérica dos nomes.
+
+Após a execução, será gerado uma tabela na base Artigo_Dengue chamado "Tabela_Unica". A tabela foi exportada e tratada em um excel (extrair Tabela_Unica.zip) para que seja feita o algoritmo de predição no python.
+
+Baixar e instalar o software Anaconda
+link: https://www.anaconda.com/distribution/
+
+Após instalação, abrir o documento python "script_regressao_logistica", deixando o script e a "Tabela_Unica" no mesmo diretorio. Executando, será mostrado os resultados no console. 
+
